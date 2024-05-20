@@ -1,2 +1,2 @@
 # SQL - DataBase
-Solving Database problems from Leetcode. 📕💻
+Solving SQL problems from Leetcode. 📕💻
